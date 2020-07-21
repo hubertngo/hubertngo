@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hubert Ngo</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tientran0019" alt="tientran0019" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hubertngo" alt="hubertngo" /> </p>
 <p align="center">
    I am a Full-Stack JavaScript Developer working in Singapore. My aim is to become a Software Architect in the future. Therefore, I always keep myself updated with the latest technology every day.</p> 
 <br />
