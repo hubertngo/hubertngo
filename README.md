@@ -3,12 +3,6 @@
 <p align="center">
    I am a Full-Stack JavaScript Developer working in Singapore. My aim is to become a Software Architect in the future. Therefore, I always keep myself updated with the latest technology every day.</p> 
 <br />
-<p align="center">
-   I like microservices and the serverless concept. I believe that they will be the future of software development.</p> 
-<br />
-<p align="center">
-   Besides workplace accomplishments, I have developed a number of web applications and Google Chrome extensions for my self-initiated projects.</p> 
-<br />
 
 <p align="center">
     <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40"  height="40" /> 
